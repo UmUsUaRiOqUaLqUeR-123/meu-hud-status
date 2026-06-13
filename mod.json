@@ -1,0 +1,16 @@
+{
+    "geode": "v2.0.0",
+    "id": "seu-nome.meu_hud_status",
+    "version": "v1.0.0",
+    "name": "Meu HUD de Status",
+    "developer": "SeuNome",
+    "description": "Mostra cliques, melhor tentativa e FPS na tela durante a gameplay.",
+    "dependencies": [
+        {
+            "id": "geode.loader",
+            "version": "v2.0.0",
+            "importance": "required"
+        }
+    ]
+}
+
