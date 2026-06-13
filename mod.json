@@ -1,5 +1,5 @@
 {
-    "geode": "2.0.0",
+    "geode": "stable",
     "id": "seu-nome.meu_hud_status",
     "version": "v1.0.0",
     "name": "Meu HUD de Status",
